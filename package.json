@@ -1,6 +1,8 @@
 {
   "name": "angular-libs",
-  "version": "0.0.0",
+  "version": "0.0.3",
+  "author": "Manh Lai",
+  "repository": "https://github.com/laituanmanh32/ngx-diff-scroll",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
