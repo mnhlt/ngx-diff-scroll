@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-diff-scroll": [
+        "dist/ngx-diff-scroll/ngx-diff-scroll",
+        "dist/ngx-diff-scroll"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
